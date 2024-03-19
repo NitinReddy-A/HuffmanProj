@@ -1,4 +1,4 @@
-# HuffmanProj
+# Huffman Algorithm Implentation in Python
 
 Text file Compression and Decompression using Huffman Algorithm in Python.
 
