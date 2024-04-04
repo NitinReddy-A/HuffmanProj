@@ -30,7 +30,7 @@ Suppose you have a text file named sample.txt with the following content:
 After compressing the file using the Huffman algorithm, you will get a file named compressed.huff. Upon decompression, you'll obtain a file identical to the original sample.txt.
 
 ## Acknowledgements:
-This implementation was inspired by the Huffman coding algorithm introduced by David A. Huffman in 1952. Special thanks to OpenAI for providing the environment to develop and share this project.
+This implementation was inspired by the Huffman coding algorithm introduced by David A. Huffman in 1952.
 
 ## Contributing:
 Contributions are welcome! Please feel free to open an issue or submit a pull request with any improvements or additional features.
